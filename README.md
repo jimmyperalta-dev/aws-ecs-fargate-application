@@ -6,7 +6,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🔗 **Live Demo:** [http://ecs-fa-Appli-B8HoFoccYhek-1920593205.us-east-1.elb.amazonaws.com](http://ecs-fa-Appli-B8HoFoccYhek-1920593205.us-east-1.elb.amazonaws.com)
+🔗 **Live Demo:** [http://ecs-fa-Appli-B8HoFoccYhek-1920593205.us-east-1.elb.amazonaws.com](http://ecs-fa-Appli-B8HoFoccYhek-1920593205.us-east-1.elb.amazonaws.com) (Note: This endpoint was active during development but has been decommissioned to avoid AWS charges. The screenshots demonstrate the working functionality.)
 
 ## 📋 Project Overview
 
@@ -168,5 +168,5 @@ This allows for visualization of container information and demonstrates proper h
 ## 👤 Author
 
 **Jimmy Peralta**  
-🛠️ Systems Support Engineer | ☁️ AWS Cloud Enthusiast  
+🛠️ Associate Media Systems Engineer | ☁️ AWS Cloud Enthusiast  
 🌐 [https://www.deployjimmy.com](https://www.deployjimmy.com)
