@@ -165,12 +165,6 @@ This allows for visualization of container information and demonstrates proper h
 
 ---
 
-## </> Development Notes
-
-This project was developed with assistance from AI tools like Claude to code and enhance documentation quality. All implementations were validated and tested by me.
-
----
-
 ## 👤 Author
 
 **Jimmy Peralta**  
